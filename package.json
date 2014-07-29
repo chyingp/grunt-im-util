@@ -1,0 +1,22 @@
+{
+  "name": "grunt-im-util",
+  "version": "0.0.0",
+  "description": "项目中用到的工具函数，无项目以外用途",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chyingp/grunt-im-util.git"
+  },
+  "author": "chyingp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chyingp/grunt-im-util/issues"
+  },
+  "homepage": "https://github.com/chyingp/grunt-im-util",
+  "dependencies": {
+    "grunt": "0.4.5"
+  }
+}
